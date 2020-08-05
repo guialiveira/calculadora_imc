@@ -3,7 +3,7 @@
 Flutter application.
 
 App que calcula o Índice de Massa Corpórea,
-
- ![](prints/app.png)
- ![](prints/calculo.png)
- ![](prints/validacao.png)
+ 
+<img src="prints/app.png" height="200" width="200">
+<img src="prints/calculo.png" height="200" width="200">
+<img src="validacao/app.png" height="200" width="200">
